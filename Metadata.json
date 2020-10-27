@@ -1,0 +1,20 @@
+{
+    "Author": "Sam Boutros",
+    "ContentSize": 28722,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/script-to-monitor-and-protect-azure-vm-against-dos/master/AZ-MonitorAndRepair.ps1",
+    "DownloadCount": 978,
+    "Id": "Script-to-monitor-and-72a943f8",
+    "IsFederated": false,
+    "IsWorkflow": false,
+    "Popularity": 346,
+    "RaterCount": 1,
+    "Rating": 5.0,
+    "ReleaseDate": "2014-12-28T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "PowerShell",
+    "Summary": "This script will monitor Azure VM, collect a group of web counters, retrieve and archive HTTPErr log files,\u00a0 parse the collected HTTPErr log files, update the Azure VM web Endpoint to block IPs that showed up\u00a0\u00a0 in any log file more than a given number of times (500 by default)T",
+    "Title": "Script to monitor and protect Azure VM against DOS",
+    "UpdatedDate": "2014-12-28T00:00:00",
+    "Url": "https://github.com/azureautomation/script-to-monitor-and-protect-azure-vm-against-dos",
+    "UserTags": "Microsoft Azure, Powershell, Monitor Azure VM"
+}
